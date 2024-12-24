@@ -17,7 +17,7 @@ const Section_Six = () => {
           <img src={line1} alt="" srcset="" height={'5px'} className='w-25 mt-5 mx-3'  style={{minWidth:"25px"}} />
           <p className='text-light mb-5' style={{ fontWeight: "700", fontSize: "40px", lineHeight: "74.96px", textTransform: "uppercase" }} >
             Summary   <span style={{ color: "#00E300" }}> &</span>emphasis </p>
-          <img src={line2} alt="" srcset="" height={'5px'} className='w-25 mt-5 mx-3' />
+          <img src={line2} alt="" srcset="" height={'5px'} className='w-25 mt-5 mx-3'  style={{minWidth:"25px"}} />
         </div>
         <div className="row container mt-5">
           <div className="col-lg-6 col-md-6 col-sm-12">

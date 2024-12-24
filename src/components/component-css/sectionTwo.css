@@ -1,0 +1,25 @@
+.car-text{
+
+    color: #FFFFFF !important;
+    font-weight: 700 !important;
+    font-size: 20px;
+    line-height: 37.48px;
+}
+.text{
+    width: 308px;
+    height: 72px;
+    padding: 8px 40px;
+    border: solid 1px white !important;
+}
+.card1{
+    position: relative;
+}
+.home-sec{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #00000033 !important;
+    z-index: 1000;
+}

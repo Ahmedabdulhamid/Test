@@ -1,0 +1,74 @@
+.p-1{
+    font-weight: 500 !important;
+    font-size: 16px;
+    line-height: 29.98px;
+    color:#FFFFFF;
+    text-transform: capitalize;
+}
+.child1{
+    background: linear-gradient(#00000000 75%,#00E30040 );
+    width: 196px;
+    height: 182px;
+    padding: 24px;
+    border-radius: 25px;
+}
+.child2{
+    background: linear-gradient(#00E30040 25%,#00000000 75%);
+    width: 196px;
+    height: 182px;
+    padding: 24px;
+    border-radius: 25px;
+}
+.typography{
+    background: #02140780 25%;
+    top:75%;
+    
+    width:100% ;
+}
+.business_hours{
+ color: #FFFFFF;
+ font-size: 10px;
+ font-weight: 400px;
+ top: 50%;
+ left: 0;
+ background: #02140780 25%; 
+ padding: 10px;
+}
+.typography p{
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 37.48px;
+}
+.parent{
+    width: 308px;
+    height: 48px;
+    border: solid 1px #FFFFFF;
+    padding: 10px 0;
+    border-radius: 8px;
+}
+.parent-3{
+    background-color: #6C6C6C33 !important ;
+    padding: 10px 0;
+  
+}
+.card{
+    border-bottom-right-radius: 24px !important;
+    border-bottom-left-radius: 24px !important;
+}
+.over{
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.over::-webkit-scrollbar{
+   
+    width: 10px;
+    height: 5px;
+    
+   
+}
+.over::-webkit-scrollbar-thumb{
+    background-color: #0F2013 !important;
+    border-radius: 2px;
+}
